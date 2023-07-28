@@ -1,2 +1,2 @@
-# Digital-Clock
-Digital Clock using HTML,CSS,JAVASCRIPT
+# digital-clock
+This is a JavaScript digital clock 
